@@ -349,11 +349,11 @@ footer .rows .rows-col ul li:last-child {
     }
 
     header article {
-        width: 310px;
+        max-width: 310px;
     }
 
     header article h1 {
-        font-size: 36px;
+        font-size: 35px;
     }
 
     section.first {
@@ -397,7 +397,7 @@ footer .rows .rows-col ul li:last-child {
 
     article {
         margin: 0 auto 50px auto;
-        width: 310px;
+        max-width: 310px;
     }
     article:last-child {
         margin: 0 auto;
